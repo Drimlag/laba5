@@ -5,21 +5,26 @@
 Мета роботи: відповідно до теми.
 зробив практичні.
 
-1.Створив файл labac.py
+1.Створив файл laba.py
 
-![image](https://user-images.githubusercontent.com/111630433/201921765-3b4978b3-60ae-4ca6-a6cb-3ee5682f0914.png)
+![image](https://user-images.githubusercontent.com/111630433/202281751-44cb7fdf-2bde-43b1-82a1-cbaec91140b6.png)
+
 ;
 
-2.Створив файл laba.ry
+2.Створив файл labal.ry
 
-![image](https://user-images.githubusercontent.com/111630433/201921921-caac888a-7e5b-4a0a-bbd2-7fb7674b8a21.png)
-![image](https://user-images.githubusercontent.com/111630433/201922016-ba442edf-99f8-48f0-887c-93f382844e08.png)
+![image](https://user-images.githubusercontent.com/111630433/202281909-f2446bc7-e7a6-49bc-80f1-3cc35a9b1b0d.png)
+
+![image](https://user-images.githubusercontent.com/111630433/202281966-cc085eb4-ca23-4b28-9e4b-1cfe7eb80b56.png)
+
 ;
 
-3.Створив файл pip.py
+3.Створив файл test.py
 
-![image](https://user-images.githubusercontent.com/111630433/201922585-8d33b955-cf5c-4311-a293-f57fa4ae5a44.png)
-![image](https://user-images.githubusercontent.com/111630433/201922700-e3ba6541-6f0e-412a-894d-080e7477ea26.png)
+![image](https://user-images.githubusercontent.com/111630433/202282120-8b6787db-7038-44e4-9264-76d5021d9a0d.png)
+
+![image](https://user-images.githubusercontent.com/111630433/202282286-bb3dda79-f3ea-4f46-80e3-ca377c18c972.png)
+
 
 
 
